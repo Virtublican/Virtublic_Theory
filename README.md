@@ -27,10 +27,9 @@ The matrix is the structural condensate of three full volumes. Each volume reali
 
 | Volume | Title | Link |
 |--------|-------|------|
-| Vol. I | Ontology of Digital Capital | [Read →]([https://virtublic.one/download/7299/?tmstv=1772336003]) |
-| Vol. II | Anthropology of Blockchain | [Read →]([https://virtublic.one/download/7305/?tmstv=1772336242]) |
-| Vol. III | Epistemology of the Constitution | [Read →](https://virtublic.one/download/7311/?tmstv=1772336440) |
-
+| Vol. I | Digital Capital | [Read →](https://virtublic.one/download/7299/?tmstv=1772336003) |
+| Vol. II | Capital of the Digital Economy | [Read →](https://virtublic.one/download/7305/?tmstv=1772336242) |
+| Vol. III | The Theory of the Digital Republic | [Read →](https://virtublic.one/download/7311/?tmstv=1772336440) |
 ---
 
 ## Method: Deductive-Dialectical System
@@ -195,8 +194,8 @@ The **single unclosed element** of the system is made explicit: the threshold of
 | 📄 Whitepaper | [Read the Whitepaper](https://virtublic.one/download/7416/?tmstv=1772569177) |
 | 💬 Forum & discussion | [Join the forum](https://virtublic.one/forums/) |
 | 🤝 Virtublican Party | [virtublic.one](https://virtublic.one/) |
-| 🖥️ Theory Matrix | [VIRTUBLIC_Matrix.md](./VIRTUBLIC_Matrix.md) |
-| 👤 Author | [kwawi](https://virtublic.one/members-2/kwawi/) |
+| 🖥️ Theory Matrix | [PromtMatrix](./VIRTUBLIC_Matrix.md) |
+| 👤 Author | [henry Irving](https://virtublic.one/members-2/kwawi/) |
 | 📧 Contact | [info@virtublic.one](mailto:info@virtublic.one) |
 
 ---
