@@ -1,10 +1,10 @@
 # VIRTUBLIC — Digital Sovereignty as a Constitutional Form
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Status: Active Research](https://img.shields.io/badge/Status-Active%20Research-blue)]()
-[![Method: Deductive-Dialectical](https://img.shields.io/badge/Method-Deductive--Dialectical-green)]()
-[![Domain: Cyber Constitutionalism](https://img.shields.io/badge/Domain-Cyber%20Constitutionalism-purple)]()
-[![Matrix Version: 1.0](https://img.shields.io/badge/Matrix-v1.0-gold)]()
+[![Status: Active Research](https://www.reddit.com/user/Virtublican/)]()
+[![Method: Deductive-Dialectical](https://en.wikipedia.org/wiki/Deductive_reasoning)]()
+[![Domain: Cyber Constitutionalism](https://virtublic.one/)]()
+[![Matrix Version:](https://virtublic.one/theory-app/)]()
 
 > **A complete formal map of digital power — calibrated with a mathematical apparatus and structured for independent verification, AI analysis, and constitutional design.**
 
@@ -26,9 +26,9 @@ The matrix is the structural condensate of three full volumes. Each volume reali
 
 | Volume | Title | Link |
 |--------|-------|------|
-| Vol. I | Ontology of Digital Capital | [Read →](#) |
-| Vol. II | Anthropology of Blockchain | [Read →](#) |
-| Vol. III | Epistemology of the Constitution | [Read →](#) |
+| Vol. I | Ontology of Digital Capital | [Read →]([https://virtublic.one/download/7299/?tmstv=1772336003]) |
+| Vol. II | Anthropology of Blockchain | [Read →]([https://virtublic.one/download/7305/?tmstv=1772336242]) |
+| Vol. III | Epistemology of the Constitution | [Read →](https://virtublic.one/download/7311/?tmstv=1772336440) |
 
 ---
 
@@ -190,12 +190,12 @@ The **single unclosed element** of the system is made explicit: the threshold of
 
 | Resource | Link |
 |----------|------|
-| 🌐 Official website | [virtublic.org](#) |
-| 📄 Whitepaper | [Read the Whitepaper](#) |
-| 💬 Forum & discussion | [Join the forum](#) |
-| 🤝 Community | [Join the community](#) |
+| 🌐 Official website | [virtublic.one](https://virtublic.one/) |
+| 📄 Whitepaper | [Read the Whitepaper](https://virtublic.one/download/7416/?tmstv=1772569177) |
+| 💬 Forum & discussion | [Join the forum](https://virtublic.one/forums/) |
+| 🤝 Community | [Join the community](https://virtublic.one/members-2/kwawi/) |
 | 🖥️ Interactive system | [Explore online](#) |
-| 📧 Contact | [contact@virtublic.org](#) |
+| 📧 Contact | [info@virtublic.one](#) |
 
 ---
 
