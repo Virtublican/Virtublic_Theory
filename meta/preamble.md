@@ -17,7 +17,7 @@ Before building a system, one must pose the question it answers. This question c
 
 | | Logic of Capital | Logic of Constitution |
 |---|---|---|
-| **Subject** | Resource | Sovereign |
+| **Subject** | Resource + | Sovereign |
 | **Attention** | Valuable because finite | Protected because finite |
 | **System** | Subject serves system | System serves subject |
 
