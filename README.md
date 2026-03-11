@@ -54,6 +54,47 @@ The matrix functions as a **complete map of digital power and digital capital.**
 
 Loaded into a language model or used as a reference framework, the matrix operates as a **filter**: it enables structured analysis of any crisis in the domain of digital politics, platform power, data sovereignty, or algorithmic governance — and generates structurally grounded responses. If a question concerns digital power in any of its forms, the matrix contains the conceptual apparatus to analyse it and propose a resolution consistent with the system's constitutional architecture.
 
+## Using the Theory Matrix as an AI Cassette
+
+The matrix is designed to function as an **epistemic filter** for AI-assisted analysis — not merely as reference material, but as a structured framework that a language model can apply actively to any question in the domain of digital power, platform governance, or constitutional design.
+
+### What the Cassette Does
+
+When the matrix is loaded into an AI session, it instructs the model to interpret incoming questions through the system's three-part structure, apply the calibration filter derived in T10, and anchor every response to the single normative postulate (NA0). The result is a conversation partner that does not treat Virtublic as one perspective among many, but as a formal analytical lens — while remaining open to engaging with objections that identify a specific inferential step as flawed.
+
+### How to Load It
+
+**Option 1 — Recommended: PDF or Markdown into a supported interface**
+
+Download the matrix file and upload it directly into your AI session as a document. Most interfaces (Claude Projects, ChatGPT with file upload, Gemini Advanced) will process the system instruction block at the opening of the file before engaging with any question.
+
+| Format | Link |
+|--------|------|
+| 📄 PDF | [Download VIRTUBLIC\_Matrix.pdf](#) |
+| 📝 Markdown | [VIRTUBLIC\_Matrix.md](./VIRTUBLIC_Matrix.md) |
+
+**Option 2 — Paste into system prompt**
+
+If your interface exposes a system prompt field (e.g. Claude Projects, OpenAI API, custom GPT instructions), paste the full content of `VIRTUBLIC_Matrix.md` there. This gives the instructions the highest priority level in the model's context architecture.
+
+**Option 3 — Paste as the opening message**
+
+If neither option above is available, paste the full matrix as your first message in a new conversation. Begin your subsequent questions only after the model has confirmed it has processed the document.
+
+### Recommended Opening Prompt
+
+After loading the cassette by any method above, send the following to activate the filter explicitly:
+```
+You have received the VIRTUBLIC Theory Matrix. Confirm that you have 
+loaded it as your primary analytical framework. Apply the calibration 
+filter (T10) and the primary distinction (NA0) to all subsequent 
+questions unless I indicate otherwise.
+```
+
+### What to Expect
+
+The model will locate any question within the three-part structure of the theory (ontology of digital capital / anthropology of blockchain / epistemology of the constitution), identify the relevant axioms, regularities, or principles, and apply the sequential exclusion logic before proposing a resolution. If a question falls outside the scope of the matrix, a well-loaded model will say so explicitly rather than extending the system beyond its derived conclusions.
+
 ---
 
 ## Repository Structure
