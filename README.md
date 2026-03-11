@@ -1,14 +1,15 @@
 # VIRTUBLIC — Digital Sovereignty as a Constitutional Form
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[[Status: Active Research](https://www.reddit.com/user/Virtublican/)])
-[[Method: Deductive-Dialectical](https://en.wikipedia.org/wiki/Deductive_reasoning)])
-[[Domain: Cyber Constitutionalism](https://virtublic.one/)])
-[[Matrix Version:](https://virtublic.one/theory-app/)])
+
 
 > **A complete formal map of digital power — calibrated with a mathematical apparatus and structured for independent verification, AI analysis, and constitutional design.**
 
 ---
+[![Status: Active Research](https://img.shields.io/badge/Status-Active%20Research-blue)](https://www.reddit.com/user/Virtublican/)
+[![Method: Deductive-Dialectical](https://img.shields.io/badge/Method-Deductive--Dialectical-green)](https://en.wikipedia.org/wiki/Deductive_reasoning)
+[![Domain: Cyber Constitutionalism](https://img.shields.io/badge/Domain-Cyber%20Constitutionalism-purple)](https://virtublic.one/)
+[![Matrix: Html](https://img.shields.io/badge/Matrix-Html-gold)](https://virtublic.one/theory-app/)
 
 ## What This Repository Is
 
@@ -193,9 +194,10 @@ The **single unclosed element** of the system is made explicit: the threshold of
 | 🌐 Official website | [virtublic.one](https://virtublic.one/) |
 | 📄 Whitepaper | [Read the Whitepaper](https://virtublic.one/download/7416/?tmstv=1772569177) |
 | 💬 Forum & discussion | [Join the forum](https://virtublic.one/forums/) |
-| 🤝 Community | [Join the community](https://virtublic.one/members-2/kwawi/) |
-| 🖥️ Interactive system | [Explore online](#) |
-| 📧 Contact | [info@virtublic.one](#) |
+| 🤝 Virtublican Party | [virtublic.one](https://virtublic.one/) |
+| 🖥️ Theory Matrix | [VIRTUBLIC_Matrix.md](./VIRTUBLIC_Matrix.md) |
+| 👤 Author | [kwawi](https://virtublic.one/members-2/kwawi/) |
+| 📧 Contact | [info@virtublic.one](mailto:info@virtublic.one) |
 
 ---
 
