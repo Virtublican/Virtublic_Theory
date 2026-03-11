@@ -4,10 +4,10 @@
 
 This repository contains the full content of the VIRTUBLIC interactive system, organized as Markdown files with YAML frontmatter. The web interface at [virtublic.html] loads content from this repository via the GitHub Raw API.
 
-## Structure
+## Annotation
 
 
-The Virtublic trilogy is the first complete map of digital power and the only existing blueprint for its institutional alternative. The three volumes form an unbroken chain: each is impossible without the one preceding it, and only together do they produce what has not existed until this moment — a complete theory of the digital republic, from diagnosis to the technical specifications of a cyber-constitution.
+The [Virtublic (virtublic.one] trilogy is the first complete map of digital power and the only existing blueprint for its institutional alternative. The three volumes form an unbroken chain: each is impossible without the one preceding it, and only together do they produce what has not existed until this moment — a complete theory of the digital republic, from diagnosis to the technical specifications of a cyber-constitution.
 
 Virtublic is not academic critique. It is an operational system: proven, formalized, and ready for implementation. For the first time in the history of political thought, digital exploitation has been translated from the domain of intuition into the domain of measurable structural laws — and for the first time, an answer has been proposed that renders the very possibility of a return to alienation architecturally impossible.
 
