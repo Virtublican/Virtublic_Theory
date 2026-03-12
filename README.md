@@ -13,8 +13,6 @@
 
 ## What This Repository Is
 
-## What This Repository Is
-
 VIRTUBLIC is an open-source project building the theoretical foundation 
 for the first cyber-constitution.
 
